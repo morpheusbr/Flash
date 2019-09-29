@@ -1,9 +1,9 @@
 {
-    "name": "morpheusbr/auth",
-    "description": "Sistema Auth",
+    "name": "morpheusbr/flash",
+    "description": "Sistema flash",
     "type": "project",
     "keywords": ["login","user"],
-    "homepage": "https://github.com/morpheusbr/Auth",
+    "homepage": "https://github.com/morpheusbr/Flash",
     "type": "library",
     "license": "MIT",
     "authors": [
